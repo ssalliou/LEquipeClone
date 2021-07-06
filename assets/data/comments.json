@@ -1,0 +1,56 @@
+[{
+  "id": "1",
+  "createdAt": "il y a 3h",
+  "comment": "Superbe course!",
+  "user": {
+    "name": "Ali Gator",
+    "image": "https://sylvain-salliou.com/assetsReactNative/avatars/avatar-sylvain.png"
+  },
+  "likes": 123,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "2",
+  "createdAt": "il y a 2h",
+  "comment": "C'est un grand sportif :) ",
+  "user": {
+    "name": "Sylvain Salliou",
+    "image": "https://sylvain-salliou.com/assetsReactNative/avatars/photo-sylvain.png"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "3",
+  "createdAt": "il y a 53 minutes",
+  "comment": "Il est prêt pour les Jeux Olympiques",
+  "user": {
+    "name": "Sylvain Salliou",
+    "image": "https://sylvain-salliou.com/assetsReactNative/avatars/photo-sylvain.png"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "4",
+  "createdAt": "Il y a 15 minutes",
+  "comment": "J'espère qu'il va faire la même chose aux JO",
+  "user": {
+    "name": "FanDeIf2021",
+    "image": "https://sylvain-salliou.com/assetsReactNative/avatars/emoji-sad.png"
+  },
+  "likes": 113,
+  "dislikes": 2,
+  "replies": 6
+}, {
+  "id": "5",
+  "createdAt": "Il y a 30 secondes",
+  "comment": "Oui, moi aussi !",
+  "user": {
+    "name": "Sylvain Salliou",
+    "image": "https://sylvain-salliou.com/assetsReactNative/avatars/photo-sylvain.png"
+  },
+  "likes": 113,
+  "dislikes": 0,
+  "replies": 6
+}]
